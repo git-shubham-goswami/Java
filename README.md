@@ -1,2 +1,2 @@
 # Java
-Java Code
+Java Basic Code
